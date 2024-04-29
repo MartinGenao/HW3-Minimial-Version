@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=IMProtocol
+comment1.params=theInput
+comment1.target=java.lang.String\ processInput(java.lang.String)
+comment1.text=\n\ processInput\n\ @param\ theInput,\ a\ String,\ what\ the\ client\ last\ said\n\ @return\ a\ String\ representing\ the\ server's\ intended\ reply\n
+numComments=2
