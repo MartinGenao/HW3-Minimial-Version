@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=GameLogic
+comment1.params=
+comment1.target=GameLogic()
+comment2.params=
+comment2.target=void\ initializeGameMap()
+comment3.params=input
+comment3.target=java.lang.String\ processGameInput(java.lang.String)
+numComments=4
