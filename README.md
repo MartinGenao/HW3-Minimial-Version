@@ -1,5 +1,5 @@
-# HW3-Minimial-Version
-Computer Networks project - Client Server Game with Hard coded Protocol
+# HW3-Minimal-Version
+Computer Networks project - Client Server Game Based on Riddles
 
 ## Disclaimer
 - This project was created using the BlueJ development environment, best results for use will be done with BlueJ
@@ -11,6 +11,12 @@ Computer Networks project - Client Server Game with Hard coded Protocol
 - Open project in BlueJ twice.
 - Simulate Server
 - Simulate Client
+
+## Opening the Project in MacOS
+- Create a copy of project under a different file name
+- Open both projects
+- Simulate Server on one Project
+- Simulate Client on the other Project
 
 ## Run Server 
 - Run IMServer and use port “4444”
